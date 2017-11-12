@@ -24,19 +24,9 @@ Attribution to the authorship of this software on the site frontend in the form 
 INSTALLATION AND CONFIGURATION
 ==============================
 
-To get started you need to download CoinSite main package from http://www.oxwall.org/download/. The package includes the core of the platform and some additional modules (called plugins), such as Photo Uploading, Video Sharing, Instant Chat, Forum and Blogs. Every plugin can be enabled/disabled in the admin panel.
+To get started you need to download CoinSite main package from https://github.com/DisasterFaster/CoinSite/. The package includes the core of the platform and some additional modules (called plugins), such as Photo Uploading, Video Sharing, Instant Chat, Forum and Blogs. Every plugin can be enabled/disabled in the admin panel.
 Upload unpacked package with an FTP client, type http://www.mycommunity/install/ in your browser, and follow instructions.
-Oxwall core has numerous options, which allow site-specific configuration. In addition to predefined plugins, there are also many original and third-party plugins for extended functionality, not included in the main package.
-
-More information:
- * Detailed installation and update instructions:
-        See INSTALL.txt and UPDATE.txt in the same directory.
- * Learn more about Oxwall:
-        http://docs.oxwall.org/
- * Post your questions:
-        http://www.oxwall.org/forum/
- * Download additional plugins:
-        http://www.oxwall.org/store/
+CoinSite core has numerous options, which allow site-specific configuration. In addition to predefined plugins, there are also many original and third-party plugins for extended functionality, not included in the main package.
 
 APPEARANCE
 ==========
