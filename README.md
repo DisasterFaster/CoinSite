@@ -1,7 +1,7 @@
 CONTENTS OF THIS FILE
 ====================
 
- * About Oxwall
+ * About CoinSite
  * Copyright
  * Installation and Configuration
  * Appearance
