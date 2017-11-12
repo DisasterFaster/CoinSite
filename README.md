@@ -41,23 +41,4 @@ More information:
 APPEARANCE
 ==========
 
-The visual appearance of an Oxwall-powered site is defined by a selected theme (themes are extensions that set site’s fonts, color scheme, and layout). Oxwall default package includes several standard themes, with more themes available for download. Users can also create their own custom themes. Themes can be customized via the Admin Panel, using simple customization interface. Additional theme customization can be done with an FTP client.
-
-More about themes:
- * Download more original and contributed themes:
-        http://www.oxwall.org/store/themes/
- * Learn more about theme customization:
-        http://docs.oxwall.org/design:index
-
-OXWALL STORE
-============
-
-Oxwall has it's own public Store with numerous themes and plugins available for download. Themes and plugins in the Store are created by the Oxwall Foundation team or third-party contributors. Users can share their plugins and themes with the community by submitting them to the Store.
-
-More info about Oxwall Store:
- * Oxwall Store:
-	http://www.oxwall.org/store/
- * Oxwall Store terms of use:
-        http://www.oxwall.org/store/terms
- * Oxwall Store Commercial License:
-        http://www.oxwall.org/store/oscl
+The visual appearance of a CoinSite-powered site is defined by a selected theme (themes are extensions that set site’s fonts, color scheme, and layout). CoinSite default package includes several standard themes, with more themes available for download. Users can also create their own custom themes. Themes can be customized via the Admin Panel, using simple customization interface. Additional theme customization can be done with an FTP client.
