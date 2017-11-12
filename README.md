@@ -5,7 +5,6 @@ CONTENTS OF THIS FILE
  * Copyright
  * Installation and Configuration
  * Appearance
- * Oxwall Store
 
 ABOUT CoinSite
 ============
