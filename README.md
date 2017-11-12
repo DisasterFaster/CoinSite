@@ -7,34 +7,25 @@ CONTENTS OF THIS FILE
  * Appearance
  * Oxwall Store
 
-ABOUT OXWALL
+ABOUT CoinSite
 ============
 
-Oxwall is an open source social network platform, which supports a variety of community driven websites, from narrow fan clubs and local communities to extended social networking portals. It was designed and developed with a creative approach pursuing one purpose - to allow people running communities as easy as possible.
-Oxwall was launched in 2010 and is supported by a nonprofit organization Oxwall Foundation ( see http://www.oxwall.org/foundation/ ). For more information, visit Oxwall website at http://www.oxwall.org/.
+CoinSite is an open source social network platform, which supports a variety of community driven websites, from narrow fan clubs and local communities to extended social networking portals. It was designed and developed with a creative approach pursuing one purpose - to allow cryptocurrency people running communities as easy as possible.
 
 COPYRIGHT
 =========
 
-Oxwall platform is licensed under Common Public Attribution License 1.0.
+CoinSite platform is licensed under Common Public Attribution License 1.0.
 In short the license states that:
 This software is open source and can be freely used, modified, and distributed;
 This software can be used for commercial purposes;
 Attribution to the authorship of this software in the source code files can not be waived under any circumstances;
 Attribution to the authorship of this software on the site frontend in the form of labels and hyperlinks can be waived with permission of the original author. Contact us if you need that for your project.
 
-Legal information about Oxwall:
- * Full license text:
-        See LICENSE.txt in the same directory
- * Logo policy:
-        http://www.oxwall.org/attribution/
- * Terms of use:
-        http://www.oxwall.org/terms/
-
 INSTALLATION AND CONFIGURATION
 ==============================
 
-To get started you need to download Oxwall main package from http://www.oxwall.org/download/. The package includes the core of the platform and some additional modules (called plugins), such as Photo Uploading, Video Sharing, Instant Chat, Forum and Blogs. Every plugin can be enabled/disabled in the admin panel.
+To get started you need to download CoinSite main package from http://www.oxwall.org/download/. The package includes the core of the platform and some additional modules (called plugins), such as Photo Uploading, Video Sharing, Instant Chat, Forum and Blogs. Every plugin can be enabled/disabled in the admin panel.
 Upload unpacked package with an FTP client, type http://www.mycommunity/install/ in your browser, and follow instructions.
 Oxwall core has numerous options, which allow site-specific configuration. In addition to predefined plugins, there are also many original and third-party plugins for extended functionality, not included in the main package.
 
