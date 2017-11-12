@@ -9,7 +9,7 @@ CONTENTS OF THIS FILE
 ABOUT CoinSite
 ============
 
-CoinSite is an open source social network platform, which supports a variety of community driven websites, from narrow fan clubs and local communities to extended social networking portals. It was designed and developed with a creative approach pursuing one purpose - to allow cryptocurrency people running communities as easy as possible.
+CoinSite is an open source social network platform, which supports a variety of altcoin driven websites, from narrow fan clubs and local communities to extended social networking portals. It was designed and developed with a creative approach pursuing one purpose - to allow cryptocurrency people running communities as easy as possible.
 
 COPYRIGHT
 =========
